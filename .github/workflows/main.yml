@@ -10,7 +10,7 @@ jobs:
       # read more at https://github.com/orgs/community/discussions/25682
       - uses: actions/checkout@v4
       - name: Run a one-line script
-        run: echo "Write your CI workflow here!"
+        run: echo "Hello Lisa with Index Solutions!"
   
   test:
     runs-on: ubuntu-latest
